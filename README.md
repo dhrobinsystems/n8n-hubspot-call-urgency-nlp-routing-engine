@@ -60,6 +60,8 @@ n8n-hubspot-call-urgency-nlp-routing-engine/
 
 ## Architecture overview
 
+![Workflow Overview](workflow-overview.png)
+
 ```mermaid
 flowchart LR
     subgraph Triggers
